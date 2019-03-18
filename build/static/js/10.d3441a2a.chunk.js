@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{750:function(n,t,e){"use strict";e.r(t),e.d(t,"LichGiaoHang",function(){return s});var a=e(37),c=e(61),i=e(63),u=e(62),r=e(64),o=e(0),p=e.n(o),s=function(n){function t(){return Object(a.a)(this,t),Object(i.a)(this,Object(u.a)(t).apply(this,arguments))}return Object(r.a)(t,n),Object(c.a)(t,[{key:"render",value:function(){return p.a.createElement("div",null,"updating...")}}]),t}(o.Component);t.default=s}}]);
+//# sourceMappingURL=10.d3441a2a.chunk.js.map

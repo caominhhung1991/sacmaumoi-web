@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/mac/Public/SACMAUMOI-project/sacmaumoi-admin/src/views/Pages/ThemDonHang/ThemDonHang.scss"],"names":[],"mappings":"AAAA,aACE,aAAA,CACA,UAAA,CACA,YAAA,CACA,gBAAiB","file":"6.dc734e6f.chunk.css","sourcesContent":[".ThemDonHang {\n  margin-top: 10;\n  padding: 10;\n  font-size: 20;\n  background: green;\n}"]}
